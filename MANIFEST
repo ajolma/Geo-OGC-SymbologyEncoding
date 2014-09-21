@@ -1,0 +1,6 @@
+Makefile.PL
+MANIFEST
+README
+t/Geo-OGC-SymbologyEncoding.t
+t/test.xml
+lib/Geo/OGC/SymbologyEncoding.pm
